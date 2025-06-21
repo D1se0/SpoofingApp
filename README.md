@@ -1,6 +1,6 @@
 # SpoofingApp - Herramienta GUI para ARP y DNS Spoofing
 
-![SpoofingApp Banner](https://user-images.githubusercontent.com/placeholder/banner.png)
+![SpoofingApp Banner](https://www.gaceta.unam.mx/wp-content/uploads/2022/10/221010-aca1-des-f1-ciberseguridad.jpg)
 
 ---
 
