@@ -39,6 +39,10 @@ Esta aplicación está orientada a profesionales de la seguridad informática y 
 
 1. Clonar o descargar el repositorio con el script `SpoofingApp.py` y la fuente `PressStart2P-Regular.ttf`.
 
+```bash
+git clone 
+```
+
 2. Ejecutar el script de instalación para preparar el entorno y dependencias:
 
 ```bash
@@ -101,8 +105,8 @@ sudo python3 SpoofingApp.py
 
 Para dudas o sugerencias, contacta a:
 
-  - Email: tuemail@dominio.com
-  - GitHub: tuusuario
+  - Email: ciberseguridad12345@gmail.com
+  - GitHub: D1se0
 
 ---
 
